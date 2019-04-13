@@ -71,18 +71,7 @@ export default class Footer extends Component {
                                 <tr>
                                     <td>0176 20389762</td>
                                 </tr>
-                                <tr className="mt-3">
-                                    <td>Instagram:</td>
-                                </tr>
-                                <tr>
-                                    <td>kxvinpinoy</td>
-                                </tr>
-                                <tr className="mt-3">
-                                    <td>Xing:</td>
-                                </tr>
-                                <tr>
-                                    <td>Kevin_Herlt</td>
-                                </tr>
+                                
                                 </tbody>
                             </table>
                         }
