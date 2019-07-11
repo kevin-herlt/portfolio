@@ -38,10 +38,10 @@ export default class Hometime extends Component {
                 2009 – 2015 
             </b>
             <br></br>
-            {Helper.translate("Catholic school St. Paulus",this.props.lang)}
+            {Helper.translate("Catholic school St. Paulus, Hamburg",this.props.lang)}
              
             <br></br>
-            {Helper.translate("Hamburg Graduation: MSA",this.props.lang)}
+            {Helper.translate("Graduation: MSA",this.props.lang)}
             </p>
 
             <p>
