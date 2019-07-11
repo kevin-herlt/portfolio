@@ -35,7 +35,7 @@ export default class Hometime extends Component {
             </p>
             <p>
             <b>
-                2005 – 2015 
+                2009 – 2015 
             </b>
             <br></br>
             {Helper.translate("Catholic school St. Paulus",this.props.lang)}
