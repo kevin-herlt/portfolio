@@ -112,7 +112,7 @@ const liste = {
     "Privacy policy of this website created by the generator of Muster-Datenschutzerklärung von <a target='_blank' href='https://www.anwalt.de/'>https://www.anwalt.de/</a>":"Quelle: Muster-Datenschutzerklärung von <a target='_blank' href='https://www.anwalt.de/'>https://www.anwalt.de/</a>",
     
     "Primary school Tannenweg, Glinde":"Grundschule Tannenweg, Glinde",
-    "Catholic school St. Paulus":"Katholische Schule St. Paulus, Hamburg",
+    "Catholic school St. Paulus, Hamburg":"Katholische Schule St. Paulus, Hamburg",
     "Graduation: MSA":"Abschluss: MSA",
     "visit of a independent art school 'Kunstschule Bergedorf', Hamburg":"Besuch einer freien Kunstschule 'Kunstschule Bergedorf', Hamburg",
     "Three-week student internship at 'Depeshe GmbH & Co. KG', Geesthacht in the area of media design":"Dreiwöchiges Schülerpraktikum bei 'Depeshe GmbH & Co. KG', Geesthacht im Bereich Mediengestaltung",
