@@ -41,6 +41,7 @@ import img17 from './images/Digital/dsl-digital-web.jpg';
 import img18 from './images/Digital/ebh-digital-web.jpg';
 import img19 from './images/Digital/silk-darling-digtal-web.jpg';
 import img20 from './images/Digital/Pockets-digital-web.jpg';
+import img24 from './images/Digital/scc-digital-web.jpg';
 
 import img21 from './images/Blender/devil-blender-web.jpg';
 import img22 from './images/Blender/fence-blender-web.jpg';
@@ -348,6 +349,13 @@ class App extends Component {
                 "src": img20,
                 'desc': "I designed the website for the company consultant Pockets during my training in Euphorika."
             },
+            {
+                "id": 24,
+                "type: "",
+                "title": "Secret Cosmetic Club Webdesign",
+                "src": img24,
+                'desc' "<a target='_blank' href='https://www.secretcosmetic.club/'>https://www.secretcosmetic.club/</a>"
+            }
         ]
 
 
