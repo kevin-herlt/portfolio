@@ -351,7 +351,7 @@ class App extends Component {
             },
             {
                 "id": 24,
-                "type: "",
+                "type": "",
                 "title": "Secret Cosmetic Club Webdesign",
                 "src": img24,
                 'desc' "<a target='_blank' href='https://www.secretcosmetic.club/'>https://www.secretcosmetic.club/</a>"
