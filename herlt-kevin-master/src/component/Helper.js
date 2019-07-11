@@ -2,6 +2,8 @@ import React from "react";
 
 const liste = {
     "GRAPHIC DESIGNER":"GRAFIKDESIGNER",
+    "Secret Cosmetic Club Webdesign": "Secret Cosmetic Club Webdesign",
+    "<a target='_blank' href='https://www.secretcosmetic.club/'>https://www.secretcosmetic.club/</a>": "<a target='_blank' href='https://www.secretcosmetic.club/'>https://www.secretcosmetic.club/</a>",
     "This Logo was made for a fictional brand":"Dieses Logo wurde für eine fiktive Marke entwickelt.",
     "This logo was made for a beauty webshop. It was made during my professional training in Euphorika.":"Dieses Logo wurde für ein Beauty Webshop während meiner Ausbildung bei Euphorika entwickelt.",
     "The logo was created for a personal security company. It shows a sign in which a large broad employee of the company Nord Protect protects the person in front of him. This logo was created during my training in Euphorika.":"Das Logo wurde für eine Personenschutz Firma erstellt. Es zeigt ein Schild in dem ein Großer Breiter Angestellter von der Firma Nord Protect die Person vor ihn beschützt. Dieses Logo wurde während meiner Ausbildung in Euphorika erstellt.",
