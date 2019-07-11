@@ -76,9 +76,19 @@ export default class Hometime extends Component {
             </p>
             <p className="mb-4">
                 
-                    <b>01.09.2016 - {Helper.translate("Today",this.props.lang)}</b>
+                    <b>01.09.2016 - 18.06.2019</b>
                     <br></br> 
                     {Helper.translate("Professional training as a media designer in digital and print products in the agency Euphorika, Hamburg",this.props.lang)}
+
+                </p>
+               
+            </div>
+
+            <p className="mb-4">
+                
+                    <b>19.06.2019 - {Helper.translate("Today",this.props.lang)}</b>
+                    <br></br> 
+                    {Helper.translate("Media designer in digital and print products in the agency Euphorika, Hamburg",this.props.lang)}
 
                 </p>
                
