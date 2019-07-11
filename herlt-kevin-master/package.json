@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "http://ryanmarcwegmeier.github.io/herlt-kevin",
+  "engines": {
+    "node": "10.3.0"
+  },
   "dependencies": {
     "body-scroll-lock": "^2.6.1",
     "gh-pages": "^2.0.1",
